@@ -43,7 +43,6 @@ round-avatar: true
 # then specify the following parameter
 #title-img: /path/to/image
 
-
 #####################################
 # --- Footer social media links --- #
 #####################################
@@ -54,12 +53,12 @@ social-network-links:
   email: "iwata-hiroyoshi@g.ecc.u-tokyo.ac.jp"
 #  facebook: deanattali
 #  github: daattali
-  twitter: "https://twitter.com/Utnapishtim5137"
+  twitter: "Utnapishtim5137"
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-  linkedin: "https://www.linkedin.com/in/hiroyoshiiwata/"
+  linkedin: "hiroyoshiiwata"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -72,7 +71,7 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-ORCID: 0000-0002-4686-028X
+ORCID: "0000-0002-4686-028X"
 #  google-scholar: your google scholar
 #  discord: invite/invite_code or users/userid 
 #  kaggle: yourname
